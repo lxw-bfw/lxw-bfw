@@ -1,6 +1,8 @@
 ![](https://github.com/lxw-bfw/lxw-bfw/blob/main/header_.png?raw=true)
 
-### Welcome, visitor. Wishing you a wonderful day✨
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&random=false&width=444&lines=Welcome%2C+visitor.+Wishing+you+a+wonderful+day%E2%9C%A8)
+
+### *Faith*:  Code builds my world. ✨✨✨✨✨✨✨✨✨✨✨
 
 ##### 目前状态
 
