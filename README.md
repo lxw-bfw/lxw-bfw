@@ -18,7 +18,7 @@
 
 ##### 商业项目`ChatAIGPT`网站秒开案例展示
 
-
+![int](https://github.com/lxw-bfw/lxw-bfw/blob/main/static/demonstration.gif?raw=true)
 
 ##### **Languages:**  
 
