@@ -16,7 +16,11 @@
 >
 > 今年把更多时间放在了`nodejs`技术栈的web 后台开发，对全栈开发也有了一些更进一步的涉猎，到目前为止做过几个小的全栈项目，项目前端核心技术栈主要是`react`+`typescript`+`nextjs`、`vue3 + typescript + vite`，后台主要是搭建`RESTful`风格的`web api`服务，为多端前端项目提供统一的接口服务，核心技术栈主要是`egg.js`+系列插件封装(包括基础业务需求、性能、安全和缓存等) + `mongoose` 。数据库以`MongoDB`为主。
 
-**Languages:**  
+##### 商业项目`ChatAIGPT`网站秒开案例展示
+
+
+
+##### **Languages:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/lxw-bfw/lxw-bfw/main/static/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/lxw-bfw/lxw-bfw/main/static/typescript.png"></code>
