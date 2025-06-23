@@ -24,6 +24,8 @@
 
 ##### 商业项目`ChatAIGPT`网站秒开案例展示
 
+[demo（体验）版本](https://chataigpt.suyi.work/chatai-gpt-upw/about) 
+
 ![int](https://github.com/lxw-bfw/lxw-bfw/blob/main/static/demonstration.gif?raw=true)
 
 ##### **Languages:**  
@@ -38,3 +40,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/lxw-bfw/lxw-bfw/main/static/less.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/lxw-bfw/lxw-bfw/main/static/css-sass.png"></code>
 
+
+
+##### 个人作品（简历）网站
+
+👉 [personal-portfolio](https://chataigpt.suyi.work/lxw-personal-portfolio/zh) 
